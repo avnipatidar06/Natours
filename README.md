@@ -184,5 +184,5 @@ This project is deployed on **[Render](https://render.com)**. Render handles the
 
 ## 👤 Author
 
-**Prabhjot Singh Saini**  
-[GitHub](https://github.com/Prabh0608)
+**Avni Patidar**  
+
